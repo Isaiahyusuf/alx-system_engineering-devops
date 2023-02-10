@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -HR betty:alxproject .
+chown -HR vincent:staff .
